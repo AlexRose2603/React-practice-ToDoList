@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Meet friends",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "title": "Go for vacation",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "title": "Drink wine",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "Enjoy the life",
+    "completed": true
+  }
+]
